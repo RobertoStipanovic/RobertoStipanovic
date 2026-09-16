@@ -1,6 +1,6 @@
 ## Roberto Stipanovic Restrepo
 
-Economist with an MSc from Tilburg University (Cum Laude) and a BSc from Universidad de los Andes. I use data science methods to answer questions with economic and policy relevance — macroeconomic forecasting, ex-ante policy appraisal, causal inference and strategy work for private and public clients, mostly in Latin America.
+Economist with an MSc from Tilburg University (Cum Laude) and a BSc from Universidad de los Andes. I use data science methods to answer questions with economic and policy relevance: macroeconomic forecasting, ex-ante policy appraisal, causal inference and strategy work for private and public clients, mostly in Latin America.
 
 Bogotá · Tilburg — [LinkedIn](https://www.linkedin.com/in/robertostipanovic)
 
