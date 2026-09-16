@@ -13,7 +13,7 @@ Bogotá · Tilburg — [LinkedIn](https://www.linkedin.com/in/robertostipanovic)
 
 ### Methods
 
-Causal inference (regression discontinuity, panel and fixed-effects models) ·
+Causal inference (regression discontinuity, panel and fixed-effects models, DiD, Event study) ·
 time-series forecasting and nowcasting · regularisation and variable selection ·
 cluster analysis · policy appraisal and cost-effectiveness analysis
 
